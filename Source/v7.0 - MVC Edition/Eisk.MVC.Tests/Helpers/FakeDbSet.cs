@@ -21,7 +21,7 @@ using System.Linq;
 namespace Eisk.Helpers
 {
     /// <summary>
-    /// Architectural Note:
+    /// Architectural Note: FaceDbSet
     /// The mock DbContext works with the in memory IDbSet (the current class) and performs queries using "LINQ to Object" technology.
     /// Where as the actual data operation in the application uses "LINQ to Entities" technologies to perform queries.
     /// Since these two scenarios uses different technologies behind the hood, please note that in some cases it is possible the mock test may pass,
