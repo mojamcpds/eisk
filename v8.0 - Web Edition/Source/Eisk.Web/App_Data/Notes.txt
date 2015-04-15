@@ -1,10 +1,10 @@
 ﻿===================================================
 
 * Bootstrap UI Theme Implementation
-	DONE * Listing page
-	DONE * CSS clean-up
-	IN PROGRESS * Details 
-	* Edit page
+	IN PROGRESS * Listing page
+	IN PROGRESS * CSS clean-up
+	IN PROGRESS * Edit page
+	* Details 
 * Image upload broken
 * Paging Support @ Listing
 * Sorting Support @ Listing
@@ -16,10 +16,12 @@
 * Usage of automapper for view model mapping code
 * Usage of Entity Framework Enumeration
 * Test improvements
+* Horizontal Menu
 DONE * Deleted Selected Broken
 
 * Mobile (Listing + Details)
 * Socket/Notification (SignalIR)
+* Bootstrap switcher
 * OWIN/Katana Implementation
 * Convert jQuery items to Angular.js/Knockout.js
 * Scafold Template

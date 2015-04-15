@@ -18,33 +18,47 @@
     </a>
 </div>
 <ul class="grid_5 profile-summery">
-    <li>@Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeId }, new { @class = "action-button ico-edit" })
-        <a href="#" onclick="print()" class="action-button ico-print">Print</a> </li>
     <li>
-        <label>
-            Title:</label>
-        @Model.Title </li>
-    <li>
-        <label>
-            Supervisor:</label>
-        @Model.SupervisorFullName</li>
-    <li>
-        <label>
-            Hire Date:
-        </label>
-        @Model.HireDate</li>
-    <li>
-        <label>
-            Date of Birth:</label>
-        @Model.BirthDate</li>
-    <li>
-        <label>
-            Address:</label>
-        @Model.FullAddress</li>
-    <li>
-        <label>
-            Home Phone</label>
-        @Model.PhoneWithExtension</li>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeId }, new { @class = "action-button ico-edit" })
+    <a href="#" onclick="print()" class="action-button ico-print">Print</a>
+</li>
+<li>
+    <label>
+        Title:
+    </label>
+    @Model.Title
+</li>
+<li>
+    <label>
+        Supervisor:
+    </label>
+    @Model.SupervisorFullName
+</li>
+<li>
+    <label>
+        Hire Date:
+    </label>
+    @Model.HireDate
+</li>
+<li>
+    <label>
+        Date of Birth:
+    </label>
+    @Model.BirthDate
+</li>
+<li>
+    <label>
+        Address:
+    </label>
+    @Model.FullAddress
+</li>
+<li>
+    <label>
+        Home Phone
+    </label>
+    @Model.PhoneWithExtension
+</li>
 </ul>
 <div class="grid_8 detail-profile omega">
-    @Model.ShortNotes</div>
+    @Model.ShortNotes
+</div>
