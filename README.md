@@ -1,4 +1,5 @@
-# eisk
+Employee Info Starter Kit
+
 Employee Info Starter Kit is an open source project, that provides project templates intended to address different types of real world challenges faced by web application developers.
 
 Using a single entity ‘Employee’, it illustrates how to utilize latest and successful software development frameworks (such as ASP.NET) and tools (such as Visual Studio), to build manageable and high performance web applications effectively and quickly.
