@@ -13,10 +13,12 @@ Twitter: http://twitter.com/AshrafulAlam | Blog: http://blog.ashraful.net | Port
    
 *******************************************************/
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Data.Entity;
 using System.Linq;
+using System.Linq.Expressions;
 
 namespace Eisk.Helpers
 {
@@ -74,7 +76,7 @@ namespace Eisk.Helpers
             get { return _query.ElementType; }
         }
 
-        System.Linq.Expressions.Expression IQueryable.Expression
+        Expression IQueryable.Expression
         {
             get { return _query.Expression; }
         }
@@ -84,7 +86,7 @@ namespace Eisk.Helpers
             get { return _query.Provider; }
         }
 
-        System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
+        IEnumerator System.Collections.IEnumerable.GetEnumerator()
         {
             return _data.GetEnumerator();
         }
