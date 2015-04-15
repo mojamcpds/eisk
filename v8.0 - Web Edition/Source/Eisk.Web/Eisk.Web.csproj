@@ -199,9 +199,8 @@
     <Content Include="App_Data\TestData.xml" />
     <Content Include="CodeTemplates\Note.txt" />
     <Content Include="CodeTemplates\PackageVersions.xml" />
-    <Content Include="Content\themes\default\css\bootstrap-theme.min.css" />
-    <Content Include="Content\themes\default\css\bootstrap.css" />
-    <Content Include="Content\themes\default\css\bootstrap.min.css" />
+    <Content Include="Content\themes\default\css\bootstrap-theme.3.3.4.min.css" />
+    <Content Include="Content\themes\default\css\bootstrap.3.3.4.min.css" />
     <Content Include="Content\themes\default\css\overcast\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\default\css\overcast\images\ui-bg_flat_0_eeeeee_40x100.png" />
     <Content Include="Content\themes\default\css\overcast\images\ui-bg_flat_55_c0402a_40x100.png" />
@@ -233,13 +232,11 @@
     <Content Include="Images\iso-resultset-first.png" />
     <Content Include="Images\loader-life.gif" />
     <Content Include="Images\noimage.gif" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\bootstrap.3.3.4.min.js" />
     <Content Include="Scripts\eisk-ajax-loader.js" />
     <Content Include="Scripts\eisk-required-if-validation.js" />
-    <Content Include="Scripts\jquery-1.11.1.min.js" />
-    <Content Include="Scripts\jquery-1.6.4.js" />
     <Content Include="Scripts\jquery-ui-1.8.18.custom.min.js" />
+    <Content Include="Scripts\jquery.1.11.2.min.js" />
     <Content Include="Scripts\jquery.mobile-1.0.1.min.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />

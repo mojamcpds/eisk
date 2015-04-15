@@ -2,7 +2,6 @@
 <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
 <script src="@Url.Content("~/Scripts/eisk-required-if-validation.js")" type="text/javascript"></script>
 <script src="@Url.Content("~/Scripts/jquery-ui-1.8.18.custom.min.js")" type="text/javascript"></script>
-
 <script type="text/javascript">
     $(function () {
         $(".datepicker").datepicker({
@@ -20,6 +19,11 @@
     });
 
 </script>
+<style type="text/css">
+    .bs-example {
+        margin: 20px;
+    }
+</style>
 
 @model Eisk.Models.EmployeeEditorModel
 @{
@@ -27,38 +31,162 @@
 }
 
 @using (Html.BeginForm(Model.EditorAction, "Employees", FormMethod.Post,
-   new { enctype = "multipart/form-data" }))
+   new { enctype = "multipart/form-data", @class = "form-horizontal" }))
 {
 
     @Html.ValidationSummary(true)
     <h1 class="h1">
         @Model.PageTitle
     </h1>
+    <p class="bs-example">
+        Add details of the employee.
+    </p>
     @Html.HiddenFor(model => model.Id)
-    <div class="form-group ui-margin">
-        <div class="col-xs-4">
-            @Html.EditorPanelFor(model => model.FirstName)
-            @Html.EditorPanelFor(model => model.LastName)
-            @Html.EditorDropdownPanelFor(model => model.ReportsTo, Model.SupervisorSelectList, "Choose a supervisor...")
-            @Html.EditorPanelFor(model => model.Title)
-            @Html.EditorPanelFor(model => model.TitleOfCourtesy)
-            @Html.EditorDropdownPanelFor(model => model.Address.Country, Model.CountrySelectList, "Choose a country...")
-            @Html.EditorCalenderPanelFor(model => model.HireDate)
-            @Html.EditorPanelFor(model => model.Address.AddressLine)
-            @Html.EditorPanelFor(model => model.Address.City)
-            @Html.EditorPanelFor(model => model.Address.Region)
-            @Html.EditorPanelFor(model => model.Address.PostalCode)
+    <div class="bs-example">
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <input type="text" class="form-control" placeholder="First Name">
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <input type="text" class="form-control" placeholder="Last Name">
+                </div>
+            </div>
         </div>
-        <div class="col-xs-4">
-            @Html.EditorPanelFor(model => model.Phone)
-            @Html.EditorPanelFor(model => model.Extension)
-            @Html.EditorCalenderPanelFor(model => model.BirthDate)
-            @Html.Partial("_EditorImagePanel", Model)
-            @Html.EditorPanelFor(model => model.Notes)
-            <p>
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </p>
-            <em>Required fields are marked with *</em>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <input type="text" class="form-control" placeholder="Title">
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <input type="text" class="form-control" placeholder="Title of Courtesy">
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                    <select class="form-control" placeholder="Supervisor">
+                        <option>Supervisor 1</option>
+                        <option>Supervisor 2</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-time"></span></span>
+                    <input type="text" class="form-control" placeholder="Hire Date">
+                </div>
+            </div>
+            
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-phone-alt"></span></span>
+                    <input type="text" class="form-control" placeholder="Phone">
+                </div>
+            </div>
+            <div class="col-xs-2">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-phone"></span></span>
+                    <input type="text" class="form-control" placeholder="Extension">
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-time"></span></span>
+                    <input type="text" class="form-control" placeholder="Birth Date">
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-home"></span></span>
+                    <input type="text" class="form-control" placeholder="Address">
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-home"></span></span>
+                    <input type="text" class="form-control" placeholder="City">
+                </div>
+            </div>
+            <div class="col-xs-2">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Region">
+                </div>
+            </div>
+            <div class="col-xs-2">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Postal Code">
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-globe"></span></span>
+                    <select class="form-control" placeholder="Country">
+                        <option>Bangladesh</option>
+                        <option>Singapore</option>
+                        <option>USA</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    Picture:<br />
+                    <img id="employeeImage" alt="employee image" class="profile-image" src="/Images/noimage.gif" />
+                    <br /><br />
+                    <input type="file" class="form-control" placeholder="Picture">
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-xs-4">
+                <div class="input-group">
+                    <textarea type="text" class="form-control input-lg" placeholder="Notes"></textarea>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-xs-9">
+                <input type="submit" class="btn btn-primary" value="Submit">
+                <input type="reset" class="btn btn-default" value="Reset">
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-xs-9">
+                <em>Required fields are marked with *</em>
+            </div>
         </div>
     </div>
 }
