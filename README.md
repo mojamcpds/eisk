@@ -12,7 +12,12 @@ Live Demo: http://eisk.apphb.com
 
 EISK has a wide variety of technology samples in following key technology areas:
 
-ASP.NET 4.5 (and earlier) jQuery 1.7 (and earlier) Entity Framework 6.0 (and earlier) T-4 Template Visual Studio 2013 (and earlier) Choose your preferred technology versions and architectural model as listed in the EISK All-in-One page.
+* ASP.NET 4.5 (and earlier) 
+* jQuery 1.7 (and earlier) 
+* Entity Framework 6.0 (and earlier) 
+* T-4 Template Visual Studio 2013 (and earlier) 
+
+Choose your preferred technology versions and architectural model.
 
 **Boosting Up Your ASP.NET Productivity**
 
