@@ -195,6 +195,7 @@
     <Compile Include="Business Rules\SupervisorCountryMustBeSame.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\Notes.txt" />
     <Content Include="App_Data\TestData.xml" />
     <Content Include="CodeTemplates\Note.txt" />
     <Content Include="CodeTemplates\PackageVersions.xml" />
