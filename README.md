@@ -6,13 +6,13 @@ Using a single entity ‘Employee’, it illustrates how to utilize latest and s
 
 Live Demo: http://eisk.apphb.com
 
-Choose Your Technology
+**hoose Your Technology** 
 
 EISK has a wide variety of technology samples in following key technology areas:
 
 ASP.NET 4.5 (and earlier) jQuery 1.7 (and earlier) Entity Framework 6.0 (and earlier) T-4 Template Visual Studio 2013 (and earlier) Choose your preferred technology versions and architectural model as listed in the EISK All-in-One page.
 
-Boosting Up Your ASP.NET Productivity
+**Boosting Up Your ASP.NET Productivity**
 
 Learn with the help of EISK, how you can make your ASP.NET skill up to 300% productive in real-world software project, along with tons of fun and excitements.
 
