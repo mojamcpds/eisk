@@ -1,0 +1,19 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <DefaultDataPath>H:\database-data-files\SQLEXPRESS\</DefaultDataPath>
+    <TargetDatabase>Eisk.Database</TargetDatabase>
+  </PropertyGroup>
+  <PropertyGroup>
+    <FileGroupsFileNames>
+      <FileGroupFileNameList Version="1" xmlns="">
+        <AllFileNames>
+          <FileGroupFileName>
+            <FileGroupName>PRIMARY</FileGroupName>
+            <FileGroupFileName>3e0aa74a-0909-4534-88c8-ab633281df30</FileGroupFileName>
+          </FileGroupFileName>
+        </AllFileNames>
+      </FileGroupFileNameList>
+    </FileGroupsFileNames>
+    <DesignDBName>Eisk.Database_DB_03b3a35e-6e1d-4de7-9b58-85d0f671f45a</DesignDBName>
+  </PropertyGroup>
+</Project>

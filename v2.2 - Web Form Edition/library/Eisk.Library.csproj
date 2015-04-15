@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4300988F-5BD1-4D97-8BEE-5DFBD7F6587B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>employee_info_web_starter_kit_lib</RootNamespace>
+    <AssemblyName>EmployeeInfoWebStarterKitLib</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisIgnoreGeneratedCode>true</CodeAnalysisIgnoreGeneratedCode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="app-utils\common\ConfigHelper.cs" />
+    <Compile Include="data-utils\ConnectionStringManager.cs" />
+    <Compile Include="data-utils\CustomCollection.cs" />
+    <Compile Include="data-utils\CustomDropdown.cs" />
+    <Compile Include="data-utils\DatabaseUtility.cs" />
+    <Compile Include="data-utils\Enumeration.cs" />
+    <Compile Include="app-utils\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="app-utils\Emailer.cs" />
+    <Compile Include="app-utils\ErrorLogger.cs" />
+    <Compile Include="app-utils\Filer.cs" />
+    <Compile Include="app-utils\Keys.cs" />
+    <Compile Include="app-utils\MyLogOn.cs" />
+    <Compile Include="app-utils\SessionManager.cs" />
+    <Compile Include="app-utils\WebManager.cs" />
+    <Compile Include="cl\EmployeeCL.cs" />
+    <Compile Include="command\Boss.cs" />
+    <Compile Include="command\CommandCommon.cs" />
+    <Compile Include="command\TwoLevelBosses.cs" />
+    <Compile Include="app-utils\common\ClientScriptHelper.cs" />
+    <Compile Include="app-utils\common\HtmlUtilities.cs" />
+    <Compile Include="app-utils\common\ShortStringDictionary.cs" />
+    <Compile Include="entity\Employee.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="design\app-utils.cd" />
+    <None Include="design\cache-layer.cd" />
+    <None Include="design\command-wrapper.cd" />
+    <None Include="design\data-utils.cd" />
+    <None Include="design\entity.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

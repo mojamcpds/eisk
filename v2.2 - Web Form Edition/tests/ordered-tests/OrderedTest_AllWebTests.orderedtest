@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="AllWebTests" storage="e:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\tests\web-tests\allwebtests.orderedtest" id="fe299b30-8a56-4c26-857c-350d34805ac4" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <Css projectStructure="" iteration="" />
+  <Execution timeOut="2147483647" />
+  <Owners>
+    <Owner name="" />
+  </Owners>
+  <TestLinks>
+    <TestLink id="09a8044f-b690-404a-bb4c-48da227a775c" name="WebTest_ListingPage_FilteringEmployeeInGrid" storage="webtest_listingpage_filteringemployeeingrid.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="efcc4c99-79ef-4517-80e9-fc8503bef50f" name="WebTest_ListingPage_Paging" storage="webtest_listingpage_paging.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2a25cf6a-cb86-4e07-8e95-36720cec6d1f" name="WebTest_DetailsPage_ViewEmployee" storage="webtest_detailspage_viewemployee.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="04b7604c-5efa-43d7-b763-1755d99b4263" name="WebTest_ListingPage_SingleEmployeeDelete" storage="webtest_listingpage_singleemployeedelete.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6f55930c-3c58-443e-9b68-77d295de4129" name="WebTest_ListingPage_MultipleEmployeeDelete" storage="webtest_listingpage_multipleemployeedelete.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2faab457-87dc-400f-b46d-73e37b041e47" name="WebTest_DetailsPage_AddNewEmployee" storage="webtest_detailspage_addnewemployee.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2faab457-87dc-400f-b46d-73e37b041e47" name="WebTest_DetailsPage_AddNewEmployee" storage="webtest_detailspage_addnewemployee.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2faab457-87dc-400f-b46d-73e37b041e47" name="WebTest_DetailsPage_AddNewEmployee" storage="webtest_detailspage_addnewemployee.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="17691d55-73a9-4293-920e-9a7559c8be70" name="WebTest_DetailsPage_ModifyNewEmployee" storage="webtest_detailspage_modifynewemployee.webtest" type="Microsoft.VisualStudio.TestTools.WebStress.DeclarativeWebTestElement, Microsoft.VisualStudio.QualityTools.LoadTest,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

@@ -1,0 +1,113 @@
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\System.Web.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll.config
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee-info-web-starter-kit_Accessor.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee-info-web-starter-kit_Accessor.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll.config
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\System.Web.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee-info-web-starter-kit_Accessor.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee-info-web-starter-kit_Accessor.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\ResolveAssemblyReference.cache
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib_Accessor.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib_Accessor.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.Rough.Select_DatabaseUnitTest.resources
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee-info-web-starter-kit-test.csproj.GenerateResource.Cache
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.VisualStudio.TeamSystem.Data.PowerTools.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.VisualStudio.Data.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\mscorcfg.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.VisualStudio.TeamSystem.DataPackage.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.Data.ConnectionUI.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib_Accessor.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_lib_Accessor.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee-info-web-starter-kit-test.csproj.GenerateResource.Cache
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Web Test\WebTest1.webtest
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Load Test\LoadTest1.loadtest
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll.config
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\employee_info_web_starter_kit_test.pdb
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\System.Web.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\ResolveAssemblyReference.cache
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee-info-web-starter-kit-test.csproj.GenerateResource.Cache
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee_info_web_starter_kit_test.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Web Test\GenericTest1.GenericTest
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Web Test\WebTest2.webtest
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Web Test\WebTest3.webtest
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Rough\Web Test\WebTest4.webtest
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\EmployeeInfoWebStarterKitTest.Rough.Delete_DatabaseUnitTest.resources
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\EmployeeInfoWebStarterKitTest.Select_DatabaseUnitTest.resources
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.CodeAnalysisLog.xml
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.lastcodeanalysissucceeded
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.config
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.pdb
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\System.Web.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee-info-web-starter-kit-test.csproj.GenerateResource.Cache
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Employee_Info_Web_Starter_Kit_Test.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Employee_Info_Web_Starter_Kit_Test.pdb
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_FilteringEmployeeInGrid.webtest
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_SingleEmployeeDelete.webtest
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.CodeAnalysisLog.xml
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.lastcodeanalysissucceeded
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Tests.DatabaseUnitTests.DatabaseUnitTest_CreateNewEmployee_ValidParametersPassed_ShouldReturnNonZeroClass.resources
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_FilteringEmployeeInGrid.webtest
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_SingleEmployeeDelete.webtest
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.CodeAnalysisLog.xml
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.lastcodeanalysissucceeded
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Tests.DatabaseUnitTests.DatabaseUnitTest_CreateNewEmployee_ValidParametersPassed_ShouldReturnNonzeroClass.resources
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\ArtOfTest.WebAii.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\Interop.SHDocVw.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\WatiN.Core.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\WatiN.Core.UnitTests.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Interop.SHDocVw.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\WatiN.Core.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\WatiN.Core.UnitTests.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\ArtOfTest.WebAii.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\Interop.SHDocVw.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\WatiN.Core.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\references\WatiN.Core.UnitTests.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_FilteringEmployeeInGrid.webtest
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\web-tests\WebTest_ListingPage_SingleEmployeeDelete.webtest
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.config
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.pdb
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.CodeAnalysisLog.xml
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Employee_Info_Web_Starter_Kit_Test.dll.lastcodeanalysissucceeded
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Interop.SHDocVw.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\System.Web.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\WatiN.Core.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\WatiN.Core.UnitTests.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Tests.DatabaseUnitTests.DatabaseUnitTest_CreateNewEmployee_ValidParametersPassed_ShouldReturnNonzeroClass.resources
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\employee-info-web-starter-kit-test.csproj.GenerateResource.Cache
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Employee_Info_Web_Starter_Kit_Test.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-test\obj\Debug\Employee_Info_Web_Starter_Kit_Test.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Links>
+	<EmployeeListingPage>http://localhost:3301/web/code-sample/listing-page.aspx</EmployeeListingPage>
+	<EmployeeDetailsPage>http://localhost:3301/web/code-sample/details-page.aspx</EmployeeDetailsPage>
+    <LoginPage>http://localhost:3301/web/public/log-on.aspx</LoginPage>
+    <AdminSecuredDefaultPage>http://localhost:3301/web/admin/admin-default.aspx</AdminSecuredDefaultPage>
+    <MemberSecuredDefaultPage>http://localhost:3301/web/private/member-default.aspx</MemberSecuredDefaultPage>
+	</Links>
+</root>

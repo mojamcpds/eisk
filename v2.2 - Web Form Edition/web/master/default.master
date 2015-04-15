@@ -1,0 +1,206 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="default.master.cs" Inherits="Master_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+ "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="description" content="Description of your web page goes here." />
+    <meta name="keywords" content="Keywords for you web page go here. Each keyword or group of keyword phrases are separated by a comma. Keep this keyword list short and relevant to the content of this specific page and also relevant to the tile of the specific page." />
+    <title>TABLE - simple</title>
+    <link href="../App_Themes/brown/css/msvs_template_simple_tables.css" rel="stylesheet"
+        type="text/css" />
+    <link href="../App_Themes/brown/css/more.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <script src="../client-scripts/grid-select-all.js" type="text/javascript">
+    <!-- //-->
+    </script>
+
+    <noscript>
+        <p>
+            Script Not supported!!.</p>
+    </noscript>
+    <form runat="server">
+    <!--
+  
+  MAIN NAV
+  
+-->
+    <table border="0" cellspacing="0" cellpadding="0" id="mainnav-container">
+        <caption class="invisible" title="mainnav-container table caption">
+        </caption>
+        <thead>
+            <tr>
+                <th class="invisible" title="Outer table">
+                </th>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <div class="none">
+                    <a href="#">skip to the main content area of this page</a></div>
+                <ul>
+                    <li><a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                        Home</a></li>
+                    <li><a runat="server" href="~/public/install.aspx" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                        Install Database</a></li>
+                    <li>
+                        <asp:LinkButton runat="server" Text="Generate Test Data" ID="lbtGenerateTestData"
+                            OnClick="lbtGenerateTestData_Click"></asp:LinkButton>
+                    </li>
+                </ul>
+            </td>
+            <td id="mainnav-side">
+                <ul>
+                    <li>
+                        <asp:LoginStatus ID="LoginStatus1" runat="server" />
+                    </li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <!--
+  
+  SITE NAME & SLOGAN
+  
+-->
+    <table border="0" cellspacing="0" cellpadding="0" id="header">
+        <caption class="invisible" title="header table caption">
+        </caption>
+        <thead>
+            <tr>
+                <th class="invisible" title="header table">
+                </th>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <a href="#" title="Site name - home page">employee info starter kit</a>
+                <div id="slogan">
+                    exploring asp.net magic!</div>
+            </td>
+            <td align="right">
+                <img id="Img1" runat="server" src="~/image/logo.jpg">
+            </td>
+        </tr>
+    </table>
+    <!--
+  
+  BREADCRUMBS
+  
+  -->
+    <table border="0" cellspacing="0" cellpadding="0" id="breadcrumb-container">
+        <caption class="invisible" title="breadcrumb-container table caption">
+        </caption>
+        <thead>
+            <tr>
+                <th class="invisible" title="breadcrumb-container table">
+                </th>
+            </tr>
+        </thead>
+        <tr>
+            <td id="breadcrumb-left">
+                <a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                    Home</a> / <a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                        Breadcrumb link</a> / Page Title
+            </td>
+            <td id="breadcrumb-right">
+                <fieldset>
+                    <legend>Search our site</legend>
+                    <label for="search">
+                        search our site</label>
+                    <input onfocus="this.select()" onblur="if (this.value==''){this.value='enter search phrase'}"
+                        id="search" name="search" type="text" class="searchbox" accesskey="4" value="enter search phrase"
+                        size="20" />
+                    <label>
+                        search</label>
+                    <input class="button-search" name="Search" type="button" value="Search" />
+                </fieldset>
+            </td>
+        </tr>
+    </table>
+    <!-- CONTENT CONTAINER -->
+    <table border="0" cellspacing="0" cellpadding="0" id="content-container">
+        <tbody>
+            <tr>
+                <td id="content-left">
+                    <!-- 
+	
+	   LEFT COLUMN
+	
+	-->
+                    <ul class="link-list-vertical">
+                        <li><a runat="server" href="~/code-sample/listing-page.aspx" title="Employee List Title">
+                            Employee List</a></li>
+                        <li><a id="A2" runat="server" href="~/layout/sample-page-with-master.aspx" title="Public Area - Sample Page">
+                            Public Sample Page</a></li>
+                        <li><a id="A3" runat="server" href="~/private/member-default.aspx" title="Member Area - Default Page">
+                            Member Default Page</a></li>
+                        <li><a id="A4" runat="server" href="~/admin/admin-default.aspx" title="Admin Area - Default Page">
+                            Admin Default Page</a></li>
+                    </ul>
+                </td>
+                <td id="content">
+                    <asp:Label runat="server" ID="lblMessage" EnableViewState="false" Font-Bold="true"
+                        ForeColor="Green"></asp:Label>
+                    <asp:ContentPlaceHolder ID="ContentPlaceholder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td id="content-right">
+                    <!-- 
+	
+  	   RIGHT COLUMN
+  
+  	-->
+                    <p>
+                        <a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                            <img id="Image3" runat="server" src="~/image/ad-01.gif" width="120" height="240"
+                                alt="Write a short description of the image here. It will show if the image is not loaded. Non visual browsers and search engines will also read this text."
+                                title="Users will see this text when they roll over this image. Non-visual browsers will read this text to blind users." /></a></p>
+                    <p>
+                        <a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                            <img id="Image4" runat="server" src="~/image/ad-02.gif" width="120" height="240"
+                                alt="Write a short description of the image here. It will show if the image is not loaded. Non visual browsers and search engines will also read this text."
+                                title="Users will see this text when they roll over this image. Non-visual browsers will read this text to blind users." /></a>
+                    </p>
+                    <p>
+                        <a href="#" title="Users will see this text when they roll over this link. Keep it short and consise. Use this text to clarify the purpose of the link.">
+                            <img id="Image5" runat="server" src="~/image/ad-03.gif" width="120" height="240"
+                                alt="Write a short description of the image here. It will show if the image is not loaded. Non visual browsers and search engines will also read this text."
+                                title="Users will see this text when they roll over this image. Non-visual browsers will read this text to blind users." /></a>
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- 
+	
+  FOOTER
+  
+-->
+    <table border="0" cellspacing="0" cellpadding="0" id="footer">
+        <caption class="invisible" title="footer table caption">
+        </caption>
+        <thead>
+            <tr>
+                <th class="invisible" title="footer table">
+                </th>
+            </tr>
+        </thead>
+        <tr>
+            <td>
+                <p>
+                    One Your Street Name, City State Zip Code<br />
+                    (555) 555-1212 | (555) 555-1212 fax<br />
+                    Copyright &copy; 2008 Site Name
+                </p>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

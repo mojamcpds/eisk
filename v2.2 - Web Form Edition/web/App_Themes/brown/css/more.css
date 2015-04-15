@@ -1,0 +1,195 @@
+﻿/*	content container TBL's */
+
+.contentcontainerTBL
+{
+	/*background-color:Green;*/
+	margin-right:auto;
+    margin-left:auto;
+	width:98%; 
+}
+
+/*	header TBL's */
+.headerTBL
+{
+	/*background-color:Aqua;*/
+	width:100%;
+	color:Black;
+	background-color:White;
+}
+
+/*	header TBL's ends */
+
+/*	UI container TBL's */
+
+.uicontainerTBL
+{
+	/*background-color:Yellow ;*/
+	margin-right:auto;
+    margin-left:auto;
+	width:95%; 
+	position:relative ; 
+}
+.uirowcontainerTBL
+{
+	/*background-color:Lime;*/
+	margin-right:auto;
+    margin-left:auto;
+	width:95%; 
+	float:left; 
+}
+/*	Data item row TBL's */
+
+
+.captionTBL
+{
+	/*float: left;*/
+	width: 20%;
+	text-align: left;
+	line-height:25px;
+	/*background-color:Red;*/
+	
+	
+}
+.captionTBLTop
+{
+	/*float: left;*/
+	width: 20%;
+	text-align: left;
+	vertical-align:top;
+	line-height:25px;
+	/*background-color:Red;*/
+	
+	
+}
+.spacerTBL
+{
+	/*float: left;*/
+	width: 1%;
+	text-align: left;
+	line-height:25px;
+}
+.spacerTBLTop
+{
+	/*float: left;*/
+	width: 1%;
+	text-align: left;
+	vertical-align:top;
+	line-height:25px;
+}
+.datafieldTBL
+{
+	/*float: left;*/
+	width: 34%;
+	text-align: left;
+	line-height:25px;
+	/*background-color:Blue;*/
+	
+}
+
+.profileTBL
+{
+	
+	width: 45%;
+	text-align: left;
+	
+}
+
+/*	Data item row TBL's ends */
+
+/* spacer row TBL's*/
+.spacerrowTBL
+{
+	height:10px;
+	margin-right:auto;
+    margin-left:auto;
+	width:95%; 
+	float:left;  
+	/*background-color:Aqua;*/
+}
+/* spacer row TBL's ends*/
+
+/* data command TBL's*/
+.dataCommandTBL
+{
+	
+	/*background-color:Black;*/
+}
+
+.printCommandTBL
+{
+	text-align:right;
+	width:100%;
+	color:Black;
+	/*background-color:Fuchsia;*/
+}
+/* data command TBL's ends*/
+
+/* content TBLider */
+.leftcontentTBLiderTBL
+{
+	float: left;
+	width: 60%;
+	text-align: left;
+	/*background-color:Red;*/
+}
+.rightcontentTBLiderTBL
+{
+	float: right;
+	width: 69%;
+	text-align: right;
+	/*background-color:Red;*/
+}
+
+/*	UI container TBL's ends */
+
+/*	content container TBL's end*/
+
+/* others */
+
+.messageTBL
+{ 
+ color:Blue;
+ font-weight:bold;
+}
+.requiredLabelTBL
+{
+ color:Red;	
+ text-align:right;
+ 
+}
+
+.requiredLabelTBL span
+{	
+	
+	text-align:right;
+}
+.requiredLabelCaptionTBL
+{
+ float:left;
+ color:Red;	
+}
+
+/* others end*/
+TR
+{
+	width:570px;
+	
+}
+.errorMessageTitle
+{
+	text-decoration:underline;
+	font-size:3;
+	color:Red;
+}
+.errorMessage
+{
+	font-size:2;
+}
+.SpecialFont
+{
+	 font-family:Verdana;
+}
+.tblHeaderTitleSize
+{
+	font-size:24px;
+}

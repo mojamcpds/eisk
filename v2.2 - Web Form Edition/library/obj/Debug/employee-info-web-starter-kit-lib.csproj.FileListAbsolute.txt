@@ -1,0 +1,31 @@
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\employee_info_web_starter_kit_lib.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\employee_info_web_starter_kit_lib.pdb
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\employee_info_web_starter_kit_lib.dll
+E:\core-standards (VSS)\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\employee_info_web_starter_kit_lib.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\employee_info_web_starter_kit_lib.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\employee_info_web_starter_kit_lib.pdb
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\ResolveAssemblyReference.cache
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\employee_info_web_starter_kit_lib.dll
+E:\tmp\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\employee_info_web_starter_kit_lib.pdb
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.CodeAnalysisLog.xml
+E:\core-standards\employee-info-starter-kit\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.lastcodeanalysissucceeded
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.CodeAnalysisLog.xml
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.lastcodeanalysissucceeded
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\My Work\EISK\current\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.pdb
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.CodeAnalysisLog.xml
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\bin\Debug\EmployeeInfoWebStarterKitLib.dll.lastcodeanalysissucceeded
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\ResolveAssemblyReference.cache
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.dll
+E:\core-standards\employee-info-starter-kit\archive\3110_1\employee-info-stater-kit-v2.2\src\employee-info-web-starter-kit-lib\obj\Debug\EmployeeInfoWebStarterKitLib.pdb

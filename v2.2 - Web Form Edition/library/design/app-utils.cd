@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BasePage">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>app-utils\BasePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.Emailer">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>app-utils\Emailer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.ErrorLogger">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>app-utils\ErrorLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.Filer">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAQAAAABAAAAABAAAIAAAAAAAEAAAAASAAAQA=</HashCode>
+      <FileName>app-utils\Filer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.Keys" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>app-utils\Keys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.MyLogOn">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAARAABAAAgAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>app-utils\MyLogOn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.SessionManager" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>app-utils\SessionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilities.WebManager">
+    <Position X="4" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAAAAAAAAQAAAAAEAAAAAACAAACAAAAA=</HashCode>
+      <FileName>app-utils\WebManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

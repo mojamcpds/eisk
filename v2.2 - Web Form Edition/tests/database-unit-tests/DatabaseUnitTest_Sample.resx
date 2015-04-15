@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DatabaseUnitTest_CreateNewEmployee_ValidParametersPassed_ShouldReturnNonZero_TestAction.SqlScript" xml:space="preserve">
+    <value>/*
+@Return_Value
+	Is an optional integer variable that stores the return status of a module. This variable must be declared in the batch, stored procedure, or function before it is used in an EXECUTE statement.
+	When used to invoke a scalar-valued user-defined function, the @return_status variable can be of any scalar data type. 
+
+RAISERROR
+	msg_str 
+	A custom message that is not contained in sysmessages. The maximum length of the message is 400 characters. Variable substitution can be used to create a more meaningful message. 
+	severity 
+	The severity level associated with the error. The valid values are 0–25. Severity levels 0–18 can be used by any user, but 19–25 are only available to members of the fixed-server role sysadmin. When levels 19–25 are used, the WITH LOG option is required. 
+	state 
+	A value that indicates the invocation state of the error. The valid values are 0–127. This value is not used by SQL Server. 
+*/
+
+DECLARE @Return_Value int
+
+DECLARE @LastName nvarchar(20)
+DECLARE @FirstName nvarchar(10)
+DECLARE @Title nvarchar(30)
+DECLARE @TitleOfCourtesy nvarchar(25)
+DECLARE @BirthDate datetime
+DECLARE @HireDate datetime
+DECLARE @Address nvarchar(60)
+DECLARE @City nvarchar(15)
+DECLARE @Region nvarchar(15)
+DECLARE @PostalCode nvarchar(10)
+DECLARE @Country nvarchar(15)
+DECLARE @HomePhone nvarchar(24)
+DECLARE @Extension nvarchar(4)
+--DECLARE @Photo image
+DECLARE @Notes nvarchar(1000)
+DECLARE @ReportsTo int
+DECLARE @PhotoPath nvarchar(255)
+
+SET @LastName = 'Alam'
+SET @FirstName = 'Ashraful'
+SET @Title  = 'MVP'
+SET @TitleOfCourtesy = 'Mr.'
+SET @BirthDate = '1/1/1980'
+SET @HireDate = '1/1/2007'
+SET @Address = 'Kollyanpur'
+SET @City = 'Dhaka'
+SET @Region = 'Mirpur'
+SET @PostalCode = '1207'
+SET @Country = 'Bangladesh'
+SET @HomePhone = '01720069017'
+SET @Extension = '000'
+--SET @Photo = 0x0
+SET @Notes = N'Mohammad Ashraful Alam is a Software Engineer, who is dedicated to Microsoft .NET based development. This Bangladeshi national is involved with project management and development of several US based software projects from his country. Already he has managed and developed 15 software projects, which are being used by several users of different countries, such as USA, Canada, Australia, and Bangladesh. While developing and managing a team, he contains and maintains a set of well defined engineering practices developed by him and other online developer community. Beside software development, he has also written several technical articles and research papers published by IEEE Computer Society and many other worlds recognized publishers. Before becoming engaged with software development, he was involved with Bengali literature and several Bengali news papers as freelance journalist and published around 150 articles, essays and short stories. Due to his willingness to give effort to improve and share better software development practices, Ashraf has awarded as “Most Valuable Professional” (MVP) in ASP.NET category by Microsoft for multiple times, since 2007. When not engaged with technical stuffs, he likes to pass time with his friends, and family members, listens music or watches TV.' 
+SET @ReportsTo = 1
+SET @PhotoPath = 'c:\photos'
+
+EXECUTE @Return_Value = Employees_CreateNewEmployee
+
+			@LastName, 
+			@FirstName, 
+			@Title, 
+			@TitleOfCourtesy, 
+			@BirthDate, 
+			@HireDate, 
+			@Address, 
+			@City, 
+			@Region, 
+			@PostalCode, 
+			@Country, 
+			@HomePhone, 
+			@Extension, 
+			0x0, 
+			@Notes, 
+			@ReportsTo, 
+			@PhotoPath
+				
+Print @Return_Value
+
+IF @Return_Value = 0
+RAISERROR ('Create Employee failed in database unit testing.',11,1)
+ 
+   
+ </value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
