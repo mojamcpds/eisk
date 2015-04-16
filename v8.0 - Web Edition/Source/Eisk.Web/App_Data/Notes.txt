@@ -28,6 +28,19 @@ DONE * Deleted Selected Broken
 * Upload image through test data
 * Implement default dependency injection
 
+* login page
+* data setup
+* attribute based domain data (name, address) setup for test
+* attribute based domain data (name, address) validation
+* search functionality
+
+===================================================
+Check References
+
+http://www.asp.net/mvc/overview/releases/whats-new-in-aspnet-mvc-52
+http://www.asp.net/mvc/overview/releases/mvc51-release-notes
+http://www.asp.net/mvc/mvc5
+
 ===================================================
 Future Editions 
 
@@ -36,6 +49,8 @@ Future Editions
 * MVC + Azure
 * MVC + Web API + EF
 * MVC + Web API + Azure
+* Web Form + EF
+* Web Form + Azure
 * F#
 * Python
 * Orchard Module
